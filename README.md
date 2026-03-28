@@ -4,7 +4,7 @@
 
 ## 环境要求
 
-- Python **3.10+**（与 `pyproject.toml` 一致）
+- Python **3.13+**（与 `pyproject.toml` 一致）
 - 建议使用 [uv](https://github.com/astral-sh/uv) 或 `pip` 管理依赖
 
 ### 安装依赖
